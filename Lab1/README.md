@@ -1,6 +1,7 @@
 Lab1 
 
 • Part 1:
+  
   o Assemble the lab kit for ECE5725
   
   o Install and configure the Raspbian Linux kernel
