@@ -1,4 +1,5 @@
-#ECE 5725 Final Project 
+**ECE 5725 Final Project 
+
 Photo displayer
 https://courses.ece.cornell.edu/ece5990/ECE5725_Fall2019_Projects/Dec_10_Demo/Photo%20Displayer/xg284_zl764_W/index.html
 
